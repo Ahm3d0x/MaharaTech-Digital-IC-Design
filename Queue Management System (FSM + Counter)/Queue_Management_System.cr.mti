@@ -1,0 +1,22 @@
+{G:/modelsim-projects/Queue Management System (FSM + Counter)/seven_segmant_decoder.v} {1 {vlog -work work -stats=none {G:/modelsim-projects/Queue Management System (FSM + Counter)/seven_segmant_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seven_segmant_decoder
+
+Top level modules:
+	seven_segmant_decoder
+
+} {} {}} {G:/modelsim-projects/Queue Management System (FSM + Counter)/Queue_Management_System.v} {1 {vlog -work work -stats=none {G:/modelsim-projects/Queue Management System (FSM + Counter)/Queue_Management_System.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Queue_Management_System
+
+Top level modules:
+	Queue_Management_System
+
+} {} {}} {G:/modelsim-projects/Queue Management System (FSM + Counter)/rom_data.v} {1 {vlog -work work -stats=none {G:/modelsim-projects/Queue Management System (FSM + Counter)/rom_data.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom_data
+
+Top level modules:
+	rom_data
+
+} {} {}}

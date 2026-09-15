@@ -1,0 +1,16 @@
+G:/modelsim-projects/counter/counter_tb.v {1 {vlog -work work -stats=none G:/modelsim-projects/counter/counter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Johnson_counter_tb
+
+Top level modules:
+	Johnson_counter_tb
+
+} {} {}} G:/modelsim-projects/counter/counter.v {1 {vlog -work work -stats=none G:/modelsim-projects/counter/counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Johnson_counter
+-- Compiling module d_ff
+
+Top level modules:
+	Johnson_counter
+
+} {} {}}

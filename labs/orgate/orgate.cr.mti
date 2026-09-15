@@ -1,0 +1,15 @@
+G:/modelsim-projects/orgate/orgate_tb_dut.v {1 {vlog -work work -stats=none G:/modelsim-projects/orgate/orgate_tb_dut.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module orgate_tb
+
+Top level modules:
+	orgate_tb
+
+} {} {}} G:/modelsim-projects/orgate/orgate.v {1 {vlog -work work -stats=none G:/modelsim-projects/orgate/orgate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module orgate
+
+Top level modules:
+	orgate
+
+} {} {}}

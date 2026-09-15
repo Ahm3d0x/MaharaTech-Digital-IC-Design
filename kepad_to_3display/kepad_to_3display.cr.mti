@@ -1,0 +1,18 @@
+G:/modelsim-projects/kepad_to_3display/kepad_to_3display.v {1 {vlog -work work -stats=none G:/modelsim-projects/kepad_to_3display/kepad_to_3display.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module kepad_to_3display
+-- Compiling module seven_segmant_decoder
+-- Compiling module keybord_encoder
+
+Top level modules:
+	kepad_to_3display
+	keybord_encoder
+
+} {} {}} G:/modelsim-projects/kepad_to_3display/kepad_to_3display_tb.v {1 {vlog -work work -stats=none G:/modelsim-projects/kepad_to_3display/kepad_to_3display_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module kepad_to_3display_tb
+
+Top level modules:
+	kepad_to_3display_tb
+
+} {} {}}

@@ -1,0 +1,8 @@
+G:/modelsim-projects/counter_using_stat/counter_using_stat.v {1 {vlog -work work -stats=none G:/modelsim-projects/counter_using_stat/counter_using_stat.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_using_stat
+
+Top level modules:
+	counter_using_stat
+
+} {} {}}
